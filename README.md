@@ -1,4 +1,4 @@
-# Neural network
+# Neural Network
 
 A simple implementation of a Neural Network using OOP concepts.
 
