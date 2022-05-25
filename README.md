@@ -2,6 +2,9 @@
 
 A simple implementation of a Neural Network using OOP concepts.
 
+## Requirements
+* Python 3
+
 ## Scripts
 
 ### Install
@@ -48,3 +51,6 @@ Deactivate the environment.
 ```bash
 deactivate
 ```
+
+## Examples
+For more info and code references look in the `examples` folder.
